@@ -10,3 +10,33 @@ Second we are work on some step vs code..
         ->  Then we are complete the commit section but not puslish on the time some work complete then submit the public step. 
         ->  ... -> remote -> remote add [here paste the clone link and set name as like to Github Folder/Repository name]
         -> Finally Public the commit. And check the working output...
+
+
+
+
+Imagine Part: 
+
+Now, if we are add some file my Github account such as -> Readme File and .gitignore file. Here Note that .gitignore file work follow the some methodiology. we are some edit the file such as .gitignore to include the any folder name as like "/temp/" file. Also added some text readme file.
+
+-> Now we are here my vscode and follow the some working guide and easily added this file my own directory 
+        -> ... -> pull [See the output on your directory]
+
+-> Agian follow the testing part on my l.gitignore file 
+        -> I am created a folder and name must mention on your .gitignore file folder name. 
+        -> And added the some sub folder or file. 
+        -> Then commit this file and see the files will not be added. Becouse this is .gitignore instruction. 
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
