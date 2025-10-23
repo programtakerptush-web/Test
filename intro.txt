@@ -1,3 +1,24 @@
+
+How to add my file local file to GitHub through VS Code
+____________________________________________________________________________________________________________________________________
+
+Follow the some step: 
+
+	-> open folder vs code
+	-> source control -> initialize then show all file in this folder. 
+	-> Than we are write a message for commit [above the commit button]
+	-> Click the Commit
+	-> when you work the first than you arise the some problem such as not to be connected your user.name and user.email so
+		first of all add this. Add follow the some step:
+						-> open new terminal 
+						-> Than type two code line:: 
+                            # git config --global user.name "user GitHub user name"
+						    # git config --global user.email "use GitHub email" 
+							[Than follow this process]
+
+
+
+
 Learn how to add file local file in my Github Repository
 ________________________________________________________
 
