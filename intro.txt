@@ -14,7 +14,7 @@ Second we are work on some step vs code..
 
 
 
-Imagine Part: 
+Interesting part:
 
 Now, if we are add some file my Github account such as -> Readme File and .gitignore file. Here Note that .gitignore file work follow the some methodiology. we are some edit the file such as .gitignore to include the any folder name as like "/temp/" file. Also added some text readme file.
 
