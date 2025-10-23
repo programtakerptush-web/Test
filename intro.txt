@@ -29,10 +29,31 @@ Now, if we are add some file my Github account such as -> Readme File and .gitig
 
 
 
+_______________________________________________________*****__________________________________________________________
+
+Clone:
+
+Just follow the some step:
+        -> copy the directory link
+        -> go vscode and ctrl+shift+P and search Git:Clone and paste the link and 
+        -> follow the some instruction than done.
 
 
 
 
+
+
+
+
+   
+                                     ---END the Session---
+
+
+
+
+
+
+.
 
 
 
