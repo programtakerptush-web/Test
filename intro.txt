@@ -1,0 +1,12 @@
+Learn how to add file local file in my Github Repository
+________________________________________________________
+
+
+
+Firstly we are create a Folder/Repository in my Github account
+Second we are work on some step vs code..
+
+        ->  Same as my PC created folder and open this folder vs code.
+        ->  Then we are complete the commit section but not puslish on the time some work complete then submit the public step. 
+        ->  ... -> remote -> remote add [here paste the clone link and set name as like to Github Folder/Repository name]
+        -> Finally Public the commit. And check the working output...
